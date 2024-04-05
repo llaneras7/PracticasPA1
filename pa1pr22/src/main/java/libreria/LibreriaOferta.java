@@ -1,5 +1,5 @@
 package libreria;
-package es.uma.informatica.pa1;
+
 import java.util.Arrays;
 import java.util.ArrayList;
 
