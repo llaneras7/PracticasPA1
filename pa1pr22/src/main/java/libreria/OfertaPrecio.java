@@ -18,7 +18,7 @@ public class OfertaPrecio implements OfertaFlex{
     }
     @Override
     public String toString(){
-        return descuento + '% (' + umb_precio + ')';
+        return descuento + "% (" + umb_precio + ")";
     }
 
 
