@@ -17,7 +17,7 @@ public class PruebaDatos {
                 datos.setRango("15 25");
                 System.out.println(datos.toString());
             }catch(DatosException de){
-                System.out.println(de.getMessage());
+                System.err.println(de.getMessage());
             }
 
         }catch (ArrayIndexOutOfBoundsException e){
